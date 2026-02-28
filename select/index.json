@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "You're Beautiful",
+  "base_artist": "James Blunt",
+  "createdAt": "2026-02-28T07:00:35.271886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You're Beautiful",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/01_You're_Beautiful_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You're Beautiful",
+      "artist": "Mojave 3",
+      "has_synced": false,
+      "path": "select/02_You're_Beautiful_Mojave_3.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That's Why You're Beautiful",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/03_That's_Why_You're_Beautiful_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That´s Why You're Beautiful",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/04_That_́s_Why_You're_Beautiful_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That’s Why You’re Beautiful",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/05_That’s_Why_You’re_Beautiful_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You're Beautiful",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/06_You're_Beautiful_OutKast.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're Beautiful (Main Version - Clean)",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/07_You're_Beautiful_(Main_Version_-_Clean)_OutKast.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're Beautiful",
+      "artist": "Bryan Adams",
+      "has_synced": false,
+      "path": "select/08_You're_Beautiful_Bryan_Adams.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You're Sixteen You're Beautiful (And You're Mine)",
+      "artist": "Ringo Starr",
+      "has_synced": true,
+      "path": "select/09_You're_Sixteen_You're_Beautiful_(And_You're_Mine)_Ringo_Starr.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You're Beautiful - james blunt",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/10_You're_Beautiful_-_james_blunt_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You’re Beautiful",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/11_You’re_Beautiful_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You're Beautiful (Acoustic)",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/12_You're_Beautiful_(Acoustic)_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You're Beautiful",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/13_You're_Beautiful_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You're Sixteen, You're Beautiful and You're Mine (Live)",
+      "artist": "Ringo Starr",
+      "has_synced": false,
+      "path": "select/14_You're_Sixteen,_You're_Beautiful_and_You're_Mine_(Live)_Ringo_Starr.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You're Sixteen (You're Beautiful And You're Mine)",
+      "artist": "Ringo Starr",
+      "has_synced": true,
+      "path": "select/15_You're_Sixteen_(You're_Beautiful_And_You're_Mine)_Ringo_Starr.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You're Beautiful",
+      "artist": "James Blunt",
+      "has_synced": false,
+      "path": "select/pl_01_You're_Beautiful_James_Blunt.txt"
+    }
+  ]
+}
